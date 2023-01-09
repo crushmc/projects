@@ -1,0 +1,5 @@
+name: InventorySynchronizer
+main: ojy\InvSync\InventorySynchronizer
+author: ojy
+api: 4.0.0
+version: B1
